@@ -1,0 +1,23 @@
+# MongoDB Ansible Collection Documentation
+## Modules
+- [mongodb_user](mongodb_user.html)
+- [mongodb_parameter](mongodb_parameter.html)
+- [mongodb_index](mongodb_index.html)
+- [mongodb_replicaset](mongodb_replicaset.html)
+- [mongodb_status](mongodb_status.html)
+- [mongodb_shard_tag](mongodb_shard_tag.html)
+- [mongodb_maintenance](mongodb_maintenance.html)
+- [mongodb_balancer](mongodb_balancer.html)
+- [mongodb_oplog](mongodb_oplog.html)
+- [mongodb_monitoring](mongodb_monitoring.html)
+- [mongodb_stepdown](mongodb_stepdown.html)
+- [mongodb_shard](mongodb_shard.html)
+- [mongodb_shard_zone](mongodb_shard_zone.html)
+- [mongodb_schema](mongodb_schema.html)
+- [mongodb_shutdown](mongodb_shutdown.html)
+- [mongodb_shell](mongodb_shell.html)
+- [mongodb_info](mongodb_info.html)
+## Lookup
+- [mongodb](lookup/mongodb.html)
+## Cache
+- [mongodb](cache/mongodb.html)
